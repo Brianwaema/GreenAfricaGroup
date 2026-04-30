@@ -7,7 +7,7 @@
   <DirectoryEntry>
     <Name>Harizon Ochieng</Name>
     <Telephone>100</Telephone>
-  </DirectoyEntry>
+  </DirectoryEntry>
   <DirectoryEntry>
     <Name>David Kiseko</Name>
     <Telephone>101</Telephone>
@@ -51,33 +51,5 @@
   <DirectoryEntry>
     <Name>Green Africa Group Main</Name>
     <Telephone>111</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Honda_Machakos</Name>
-    <Telephone>113</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Honda_Wote</Name>
-    <Telephone>114</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Honda_Mwingi</Name>
-    <Telephone>116</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Honda_Mutomo</Name>
-    <Telephone>117</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Honda_Matuu</Name>
-    <Telephone>118</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Honda_Kitui</Name>
-    <Telephone>119</Telephone>
-  </DirectoryEntry>
-  <DirectoryEntry>
-    <Name>Honda_Mega</Name>
-    <Telephone>120</Telephone>
   </DirectoryEntry>
 </YealinkIPPhoneDirectory>
