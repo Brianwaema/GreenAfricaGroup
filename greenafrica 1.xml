@@ -49,7 +49,7 @@
     <Telephone>110</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Green Africa Group Main</Name>
+    <Name>Reception</Name>
     <Telephone>111</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
@@ -77,7 +77,11 @@
     <Telephone>119</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Honda_Mega</Name>
+    <Name>Honda_Mega_Up</Name>
     <Telephone>120</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Honda_Mega</Name>
+    <Telephone>121</Telephone>
   </DirectoryEntry>
 </YealinkIPPhoneDirectory>
