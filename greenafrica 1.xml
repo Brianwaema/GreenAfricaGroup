@@ -29,7 +29,7 @@
     <Telephone>105</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>AgroPro365</Name>
+    <Name>GTAP</Name>
     <Telephone>106</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
@@ -93,7 +93,7 @@
     <Telephone>122</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Green 124</Name>
+    <Name>Admin</Name>
     <Telephone>124</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
@@ -148,6 +148,18 @@
     <Name>Bamboo HM 7</Name>
     <Telephone>137</Telephone>
   </DirectoryEntry>
+ <DirectoryEntry>
+    <Name>Karen Residence - Gate</Name>
+    <Telephone>138</Telephone>
+  </DirectoryEntry>
+ <DirectoryEntry>
+    <Name>Karen Residence - Hse</Name>
+    <Telephone>139</Telephone>
+  </DirectoryEntry>
+<DirectoryEntry>
+    <Name>AgroPro</Name>
+    <Telephone>140</Telephone>
+  </DirectoryEntry>
   <DirectoryEntry>
     <Name>G - Kubota</Name>
     <Telephone>254723993017</Telephone>
@@ -155,6 +167,14 @@
   <DirectoryEntry>
     <Name>G - Amon</Name>
     <Telephone>254726374974</Telephone>
+  </DirectoryEntry>
+<DirectoryEntry>
+    <Name>G - Lenah</Name>
+    <Telephone>254704840990</Telephone>
+  </DirectoryEntry>
+<DirectoryEntry>
+    <Name>G - Jane</Name>
+    <Telephone>254721265268</Telephone>
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>GFL - Green For Life Main</Name>
